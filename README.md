@@ -19,13 +19,13 @@ __Features__
 
 **Technologies Used**
 
-Backend: Python, TensorFlow, Keras (ResNet50 model)
-Frontend: HTML, CSS, JavaScript, Bootstrap
-Deployment: Flask, OpenCV, Docker
+*Backend: Python, TensorFlow, Keras (ResNet50 model)
+*Frontend: HTML, CSS, JavaScript, Bootstrap
+*Deployment: Flask, OpenCV, Docker
 
 
 **Future Scope**
 
-Mobile app with real-time camera-based plant detection
-Multi-language support for a global audience
-Expanded plant species database
+*Mobile app with real-time camera-based plant detection
+*Multi-language support for a global audience
+*Expanded plant species database
