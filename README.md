@@ -1,4 +1,6 @@
 Herb Hunter: Medicinal Plant Detection Using Machine Learning
+
+
 Overview
 Herb Hunter is a web-based application designed to identify medicinal plants from user-uploaded images. By leveraging the power of ResNet50, a convolutional neural network (CNN), the application accurately classifies plant species and provides detailed information about their medicinal properties.
 
